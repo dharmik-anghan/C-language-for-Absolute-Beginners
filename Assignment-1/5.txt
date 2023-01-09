@@ -1,0 +1,5 @@
+a) C17
+b) Dennis Ritchie
+c) The system software is used for operating computer hardware. On the other hand Application software are installed according to user's requirements
+d) Take decimal number as dividend. Divide this number by 2 (2 is base of binary so divisor here). Store the remainder in an array (it will be either 0 or 1 because of divisor 2). 
+    Repeat the above two steps until the number is greater than zero
