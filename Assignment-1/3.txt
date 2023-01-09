@@ -1,0 +1,2 @@
+A text editor is comparable to a code editor; however, a code editor offers significantly more functionality. 
+Text editors with sophisticated built-in capabilities and specific functionalities designed to ease and speed up the process of editing code are referred to as code editors.
