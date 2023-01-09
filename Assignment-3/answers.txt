@@ -1,0 +1,21 @@
+1) There are eight primitive data types: Boolean, byte, character, short, int, long, float, and double.
+
+2) A return or yield statement is called outside of a function.
+
+3) 4 bytes
+
+4) Zero
+
+5)  float has 7 decimal digits of precision and occupies 32 bits . A double is a 64-bit IEEE 754 double-precision floating-point number. 
+    1 bit for the sign, 11 bits for the exponent, and 52 bits for the value. A double has 15 decimal digits of precision and occupies a total of 64 bits .
+    
+6) American Standard Code for Information Interchange
+
+7) A function is executed within a stack frame, whereas a keyword statement isn't necessarily. 
+
+8) Modifiers are C keywords that modify the meaning of fundamental data types. It indicates how much memory will be allocated to a variable. 
+   To adjust the memory allocated for a variable, modifiers are prefixed with fundamental data types.
+   
+9) You can. In C character constant is of type int.
+
+10) TRUE
