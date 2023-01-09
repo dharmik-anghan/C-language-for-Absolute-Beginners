@@ -1,0 +1,19 @@
+1) 'A" , '+'
+
+2) is, this, super
+
+3) int $main is not a valid C variable name.
+
+4) No
+
+5) Keywords are the words whose meaning has already been explained to the C compiler and their meanings cannot be changed
+
+6) RAM
+
+7) Dennis Ritchie
+
+8) early 1970s
+
+9) Unix
+
+10) Low level programming language
