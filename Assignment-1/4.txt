@@ -1,0 +1,7 @@
+Phases of program development
+Problem Definition.
+Problem Analysis.
+Algorithm Development.
+Coding & Documentation.
+Testing & Debugging.
+Maintenance.
