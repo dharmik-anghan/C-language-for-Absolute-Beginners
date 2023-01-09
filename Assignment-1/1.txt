@@ -1,0 +1,3 @@
+The only language that the computer can process or execute is called machine language. 
+It consists of only 0s and 1s in binary, that a computer can understand. 
+In short, the computer only understands binary code, i.e 0s and 1s.
